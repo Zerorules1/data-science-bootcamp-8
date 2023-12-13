@@ -12,7 +12,7 @@ Following 10 sprints in the bootcamp
 6. Data Visualization
 7. Essential Statistics for Data Analyst
 8. Essential Machine Leraning for Data Analyst
-9. Pythone programming & Essential Python for Data Analyst
+9. Python programming & Essential Python for Data Analyst
 10. Dashboard
 
 You can find me on LinkedIn https://www.linkedin.com/in/tsorn
